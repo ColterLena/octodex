@@ -1,4 +1,4 @@
-# Octodex
+# Octodex: An HTML and CSS Exercise
 GitHub has a great mascot called Octocat. Octocat even has its own gallery of variations, created by GitHub itself and fans, called [Octodex](https://octodex.github.com).
 
 You can use all the tools you have at your disposal to get the job done. Use your browser's Developer Tools to inspect their site to find the exact font sizes and padding amounts.
